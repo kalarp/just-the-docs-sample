@@ -1,6 +1,7 @@
 ---
 title: Change
 parent: JTD Demo
+layout: default
 nav_order: 4
 ---
 

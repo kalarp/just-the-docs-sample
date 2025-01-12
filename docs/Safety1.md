@@ -1,6 +1,7 @@
 ---
 title: Safety 1
 parent: JTD Demo
+layout: default
 nav_order: 1
 ---
 
