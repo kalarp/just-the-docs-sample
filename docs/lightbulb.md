@@ -1,3 +1,9 @@
+---
+title: JTD Demo
+layout: default
+nav_order: 2
+---
+
 # How to Change a Light Bulb
 
 ## How to Remove the Light Bulb
