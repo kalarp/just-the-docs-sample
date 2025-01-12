@@ -2,6 +2,7 @@ title: Just the Docs Sample
 description: This is a test project. 
 theme: just-the-docs
 color_scheme: dark
+logo: /images/logo.png
 
 url: https://kalarp.github.io/just-the-docs-sample
 
