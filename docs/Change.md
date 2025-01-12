@@ -1,6 +1,6 @@
 ---
 title: Change
-parent: Introduction
+parent: JTD Demo
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Safety 1
-parent: Introduction
+parent: JTD Demo
 nav_order: 1
 ---
 

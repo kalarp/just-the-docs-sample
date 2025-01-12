@@ -1,6 +1,6 @@
 ---
 title: Remove
-parent: Introduction
+parent: JTD Demo
 nav_order: 3
 ---
 
