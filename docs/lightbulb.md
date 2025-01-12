@@ -33,3 +33,5 @@ nav_order: 2
 * In the case of a screw cap bulb, simply place it into the hole and then twist it. You will usually want to choose a bulb that has the same wattage as the old bulb, unless you want softer or brighter light than what you already had.
 * Check the label on the bulb socket or fixture for the max watt/amp rating. Make sure the bulb's power rating doesn't exceed that allowed by your lighting fixture (check with the manufacturer or packaging).
 * Turn the switch on so you can know when to stop turning. When the light turns on, stop turning.
+
+[Source](https://www.wikihow.com/Change-a-Light-Bulb#How-to-Remove-the-Light-Bulb)
