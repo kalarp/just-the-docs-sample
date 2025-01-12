@@ -5,7 +5,7 @@ layout: default
 nav_order: 4
 ---
 
-## Put a new bulb in the socket.
+# Put a new bulb in the socket.
 
 In order to put a new bulb into a lighting fixture's socket, you will want to turn the bulb in a clockwise direction. Just remember: counter-clockwise to remove; clockwise to insert.
 

@@ -5,7 +5,7 @@ layout: default
 nav_order: 3
 ---
 
-## Take the bulb out of the socket.
+# Take the bulb out of the socket.
 
 If the fixture is easy to reach, such as a lamp, the process is pretty straightforward. Sockets do differ depending on your lighting fixture.
 
